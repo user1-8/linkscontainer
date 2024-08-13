@@ -4,7 +4,7 @@ $(document).ready(function(){
 
 	let initialTemplate = $('.links_container').html();
 
-	$('.links_container').html('No links yet');
+	$('.links_container').html(' ');
 
 	for (x in links_obj) {
 		$('.links_container').append(initialTemplate.replace('Link Title 1', x).replace('https://www.example.com/', links_obj[x]));
