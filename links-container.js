@@ -6,11 +6,13 @@ var links_obj= {
 
 'temp for file share': 'https://bit.ly/temp1809',
 
-'Yt plylst: Alternating Current (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfpQgs77iEuwFjRzTZpdG3k',
+'plylst: ElectoChem.': 'https://youtube.com/playlist?list=PL4aRKKyFaN8RsWM7ZiLrmwRQtTTANkEFY&si=eMgm3hOmJxPriXBb',
 
-'Yt plylst: EM waves (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSevcBzF8AOcR7AHOpWBvF1k',
+'plylst: Alternating Current (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfpQgs77iEuwFjRzTZpdG3k',
 
-'Yt plylst: Dual Nature of Radiation&Matter (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSd1HE255uCzwg_HJaIkcgwa',
+'plylst: EM waves (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSevcBzF8AOcR7AHOpWBvF1k',
+
+'plylst: Dual Nature of Radiation&Matter (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSd1HE255uCzwg_HJaIkcgwa',
 
 
 

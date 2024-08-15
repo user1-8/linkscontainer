@@ -7,50 +7,58 @@
 }
 
 html{
-    font-size: 20px;
+    font-size: 19px;
 }
 
 body {
-    background: url('pexels-thachtran-745081.jpg') no-repeat top center fixed;
+    width: 100%;
+    min-height: 100vh;
+    background: url('pexels-thachtran-745081.jpg') no-repeat top center;
     background-size: cover;
     font-family: "Poppins", sans-serif;
     color: #233;
 }
 
 .container {
-    max-width: 900px;
-    padding: 20px;
+    padding: 3rem 1rem;
 }
 .container .mytitle{
-    font-family: "Montserrat", sans-serif;
+    font-family: "Kalam", cursive;
+    color: rgba(0,0,0,.8);
     font-size: 2.2rem;
     font-weight: 700;
-    margin-bottom: ;
+    margin-bottom: 0;
+}
+.container .mytitle i{
+    font-size: 1.7rem;
 }
 
 .links_container{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
 }
-
 .link-card {
-    width: 600px;
-    max-width: 90%;
+    text-align: left;
+    display: inline-block;
+    width: 100%;
+    max-width: 18rem;
     background: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
     border-radius: 12px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    margin: 10px;
+    margin: 10px 0;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
 }
-
 .link-card h3 {
     margin: 0;
     color: #007bff; /* Text color for headers */
     font-weight: 500;
     font-size: 1.1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .link-card p {
