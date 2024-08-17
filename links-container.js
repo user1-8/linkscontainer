@@ -6,6 +6,8 @@ var links_obj= {
 
 'temp for file share': 'https://bit.ly/temp1809',
 
+'plylst: humn Health & Diseases.': 'https://youtube.com/playlist?list=PLJyab0VQDBGWN8QnBrfxPmaX7WWBvi22V&si=EY4pUWqvM_acUl82',
+
 'plylst: ElectoChem.': 'https://youtube.com/playlist?list=PL4aRKKyFaN8RsWM7ZiLrmwRQtTTANkEFY&si=eMgm3hOmJxPriXBb',
 
 'plylst: Alternating Current (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfpQgs77iEuwFjRzTZpdG3k',
