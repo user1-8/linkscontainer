@@ -8,7 +8,11 @@ var links_obj= {
 
 'plylst: humn Health & Diseases.': 'https://youtube.com/playlist?list=PLJyab0VQDBGWN8QnBrfxPmaX7WWBvi22V&si=EY4pUWqvM_acUl82',
 
+'plylst: Biotech princip. & proces.': 'https://www.youtube.com/playlist?list=PLfWIv20OHtScs6HxiXrBwqomQpcFfmOxw',
+
 'plylst: ElectoChem.': 'https://youtube.com/playlist?list=PL4aRKKyFaN8RsWM7ZiLrmwRQtTTANkEFY&si=eMgm3hOmJxPriXBb',
+
+'plylst: Ray Optics (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSf74vtg1q_2sUM8tAaRYNKd',
 
 'plylst: Alternating Current (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfpQgs77iEuwFjRzTZpdG3k',
 
