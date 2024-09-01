@@ -10,7 +10,7 @@ var links_obj= {
 
 'plylst: Biotech princip. & proces.': 'https://www.youtube.com/playlist?list=PLfWIv20OHtScs6HxiXrBwqomQpcFfmOxw',
 
-'plylst: ElectoChem.': 'https://youtube.com/playlist?list=PL4aRKKyFaN8RsWM7ZiLrmwRQtTTANkEFY&si=eMgm3hOmJxPriXBb',
+'plylst: D&F(MD) (L3 missing)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtScvufGJZWOAO8ae5ulOyBJU',
 
 'plylst: Ray Optics (TB)': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSf74vtg1q_2sUM8tAaRYNKd',
 
