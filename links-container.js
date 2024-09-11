@@ -2,6 +2,8 @@ var links_obj= {
 
 'MyPW': 'https://bit.ly/mypw1',
 
+'Study (8c Email)': 'https://drive.google.com/drive/folders/19p8_ll9nMoHjuF1w6InmuvVI8WnXGjTk?usp=drive_link',
+
 'Full books': 'https://bit.ly/fullbk1',
 
 'temp for file share': 'https://bit.ly/temp1809',
