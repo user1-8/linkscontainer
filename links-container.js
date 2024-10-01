@@ -8,6 +8,14 @@ var links_obj= {
 
 'temp for file share': 'https://bit.ly/temp1809',
 
+'plylst: Atoms': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfNZt7OJ6qb6fwF1VNH21aN',
+
+'plylst: Nuclei': 'https://www.youtube.com/playlist?list=PLfWIv20OHtScnmZZ7k5RPAhOPS2LmVN63',
+
+'plylst: Semiconductors': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSei21qT3oq_IUv23PEiSAuX',
+
+'plylst: EM waves': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSevcBzF8AOcR7AHOpWBvF1k',
+
 'plylst: Org. & Population': 'https://www.youtube.com/playlist?list=PLfWIv20OHtSfucYYE05VTi3_COrKZQ960',
 
 'plylst: humn Health & Diseases.': 'https://youtube.com/playlist?list=PLJyab0VQDBGWN8QnBrfxPmaX7WWBvi22V&si=EY4pUWqvM_acUl82',
