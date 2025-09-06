@@ -1,6 +1,9 @@
 var links_obj= {
 
-'MyPW': 'https://bit.ly/mypw1',
+'MyPW': 'https://drive.google.com/drive/folders/1MvYo6V2-H5ijUK3iNVXO4Bbfx7Wedlu2?usp=drive_link',
+
+'MyPW_1': 'https://drive.google.com/drive/folders/1Fc2s6U9U1YxN2mfaKeZblSZAcGclvjeB?usp=sharing',
+
 
 'Study (8c Email)': 'https://drive.google.com/drive/folders/19p8_ll9nMoHjuF1w6InmuvVI8WnXGjTk?usp=drive_link',
 
